@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "618293013875",
+    "project_id": "attensys-4ff78",
+    "storage_bucket": "attensys-4ff78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618293013875:android:ee513b8423e011efc5a906",
+        "android_client_info": {
+          "package_name": "com.example.attendancesys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618293013875-2mgrcaumu5sf1qo5aj4crjen863crbj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfzekk7L16fRDYjuPbgmBTDcVs2kaZPi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618293013875-2mgrcaumu5sf1qo5aj4crjen863crbj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
